@@ -1,0 +1,2 @@
+)Node{val=1, next=Node{val=2, next=null}}
+žresult : Node{val=1, next=Node{val=1, next=Node{val=2, next=Node{val=3, next=Node{val=4, next=Node{val=4, next=Node{val=5, next=Node{val=6, next=null}}}}}}}}
